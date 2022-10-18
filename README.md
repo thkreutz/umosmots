@@ -40,7 +40,4 @@ parable to that of supervised state-of-the-art approaches.
 #### Coming soon...
 
 # Citation
-
-
-#### Further Reading
 Coming soon...

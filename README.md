@@ -1,6 +1,6 @@
 # umosmots
 Public repository for our WACV2023 Accepted Paper: "Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings
-with Multivariate Occupancy Time Series" by Thomas Kreutz, Max Mühlhäuser, and Alejandro Sanchez Guinea
+with Multivariate Occupancy Time Series" by Thomas Kreutz, Max Mühlhäuser, and Alejandro Sanchez Guinea [arxiv](https://arxiv.org/abs/2212.14750)
 
 # Abstract
 In this work, we address the problem of unsupervised moving object segmentation (MOS) in 4D LiDAR data recorded from a stationary sensor, where no ground truth annotations are involved. Deep learning-based state-of-the-art methods for LiDAR MOS strongly depend on annotated ground truth data, which is expensive to obtain and scarce in existence.

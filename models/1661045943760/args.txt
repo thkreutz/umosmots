@@ -1,0 +1,10 @@
+{
+  "output_path": "/workspace/UMOS/models/publication/",
+  "load_weights_path": null,
+  "radius": 2,
+  "window_size": 20,
+  "dataset": "/workspace/UMOS/data/kitti_moving_20",
+  "epochs": 2,
+  "batch_size": 1024,
+  "embedding_dim": 32
+}

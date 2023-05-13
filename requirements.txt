@@ -1,0 +1,10 @@
+pandas==1.2.5
+torch==1.9.0+cu111
+tqdm==4.61.1
+matplotlib==3.4.2
+joblib==1.0.1
+numpy==1.22.4
+open3d==0.16.0
+getpy==0.14.2
+MinkowskiEngine==0.5.4
+scikit_learn==1.2.2

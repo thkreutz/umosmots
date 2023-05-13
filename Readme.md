@@ -21,9 +21,9 @@ Step 2: Download respective Raw KITTI sequences from https://www.cvlibs.net/data
 
 | Name KITTI | Name in paper | Seq ID |
 | ---  | --- | --- |
-| 2011 09 26 drive 0017 sync (City category) | City1 | 22 |
-| 2011 09 26 drive 0060 sync (City category) | City2 | 23 |
-| 2011 09 28 drive 0016 sync (Campus category) | Campus1 | 24 |
+| 2011 09 28 drive 0016 sync (Campus category) | Campus1 | 22 |
+| 2011 09 26 drive 0017 sync (City category) | City1 | 23 |
+| 2011 09 26 drive 0060 sync (City category) | City2 | 24 |
 
 Step 3: Extract them, rename each sequence to Seq ID, mkdir data/rawkitti, and move to data/rawkitti. You may also extract them into SemanticKITTI/sequences/ and obtain SemanticKITTI/sequences/<22,23,24>
 
@@ -64,8 +64,8 @@ Model is saved to models/<generated mid>
 ### Pre-trained model
 pre-trained model is provided in models/1661045943760
 - see evaluation section how to evaluate
-- visualization -> Visualization.ipynb
-
+- gmm models for each scene in models/1661045943760/gmms (name gmm_<scene_id>.joblib)
+- see how to use with data in last section in visualization -> Visualization.ipynb
 
 ### Evaluation
 

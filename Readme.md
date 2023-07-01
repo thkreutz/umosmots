@@ -86,12 +86,6 @@ python tk_umos_evaluation_script.py -d data/rawkitti/ -seq 22 -mp models/ -mid 1
 Check Visualization.ipynb notebook.
 
 
-
-
-### VLP16 Data
-- link coming soon
-
-
 ### Some Links
 SemanticKITTI http://semantic-kitti.org/
 
